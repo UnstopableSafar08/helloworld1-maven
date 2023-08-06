@@ -28,7 +28,7 @@ bootJar {
 }*/
 
 war {
-	enabled = false
+	enabled = true
 	//classifier = ''
 }
 
